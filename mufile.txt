@@ -1,2 +1,0 @@
-添加commit的说明
-commit 记录索引的状态
